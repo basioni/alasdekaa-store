@@ -1,0 +1,35 @@
+Changelog Legend:
+----
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+(04/12/16) - Improvements - Version 1.8
+[*] - Updated data-slug instead of id for gf
+
+(08/27/15) - Improvements - Version 1.7
+[*] - Wildcard selector added for GF extension notices
+
+(07/06/15) - Improvements - Version 1.6
+[*] - Changed admin hook for remove gf menu to admin_enqueue_scripts
+
+(07/06/15) - Improvements - Version 1.5
+[*] - Changed conditional check to look for GF main class
+
+(06/25/15) - Improvements - Version 1.4
+[*] - Added additional forms for removal of GF banner
+
+
+(06/05/15) - Improvements - Version 1.3
+[!] - Swapped out conditional check for WC action and added function check
+
+
+(05/14/15) - Improvements - Version 1.2.0
+[!] - Added conditional check for action hooks to avoid breaking media uploader
+
+(05/05/15) - First Release (beta) - Version 1.1.0
